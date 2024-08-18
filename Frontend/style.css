@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+canvas {
+    text-align: center;
+    width: 80% !important;
+    height: 400px !important;
+    max-width: 800px;
+    max-height: 600px;
+}
